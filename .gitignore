@@ -1,0 +1,12 @@
+# Ignore Python cache files
+InstaScrape/__pycache__/
+*.pyc
+
+# Ignore virtual environments
+InstaScrape/venv/
+
+# Ignore sensitive data
+InstaScrape/cookie.json
+
+# Ignore log files
+*.log
