@@ -1,9 +1,9 @@
 # Ignore Python cache files
-InstaScrape/__pycache__/
+__pycache__/
 *.pyc
 
 # Ignore virtual environments
-InstaScrape/venv/
+venv/
 
 # Ignore sensitive data
 InstaScrape/cookie.json
